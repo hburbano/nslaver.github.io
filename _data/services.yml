@@ -1,0 +1,39 @@
+en:
+  title: What we offer!
+  list:
+    other:
+      glyph: fa-plane
+      title: Agile
+      description: Agile development in syncroni to changing needs.
+    agile:
+      glyph: fa-trello
+      title: Agile
+      description: Agile development in synchrony to changing needs.
+    code:
+      glyph: fa-code
+      title: Programming
+      description: Full stack development in many flavors.
+    cloud:
+      glyph: fa-cloud
+      title: Cloud services
+      description: Config and deployment to your favorite cloud provider.
+
+es:
+  title: Que ofrecemos!
+  list:
+    other:
+      glyph: fa-plane
+      title: Agil
+      description: Desarrollo agil en sincronia con necesidades cambiantes.
+    agile:
+      glyph: fa-plane
+      title: Agil
+      description: Desarrollo agil en sincronia con necesidades cambiantes.
+    code:
+      glyph: fa-code
+      title: Desarrolo Full Stack
+      description: Desarrollo Full Stack en diversos sabores.
+    cloud:
+      glyph: fa-cloud
+      title: Cloud services
+      description: Configuración y desarrollo a tu lugar favorito en la nube.

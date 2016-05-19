@@ -1,0 +1,27 @@
+en:
+  about:
+    name: About
+    url: "#about"
+  services:
+    name: Services
+    url: "#services"
+  portfolio:
+    name: Portfolio
+    url: "#portfolio"
+  contact:
+    name: Contact
+    url: "#contact"
+
+es:
+  about:
+    name: Acerca de nosotros
+    url: "#about"
+  services:
+    name: Servicios
+    url: "#services"
+  portfolio:
+    name: Portafolio
+    url: "#portfolio"
+  contact:
+    name: Contacto
+    url: "#contact"

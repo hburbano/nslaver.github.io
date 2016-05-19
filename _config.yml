@@ -1,0 +1,27 @@
+#Gems
+
+gems: ['jekyll-polyglot']
+
+# Site settings
+title: BBox.co
+email: hburbano@bbox.co
+description:
+  en: Site description
+  es: Descripción del sitio
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bbox.co" # the base hostname & protocol for your site
+
+#i18n Polyglot
+
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["js", "font-awesome", "fonts", "img", "css"]
+parallel_localization: true
+
+# Config
+twitter_username: nslaver
+github_username: nslaver
+keybase_username: nslaver
+
+# Build settings
+markdown: kramdown

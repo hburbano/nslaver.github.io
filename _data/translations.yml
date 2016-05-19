@@ -1,0 +1,24 @@
+en:
+  languages: Languages
+  en : Eng
+  sp : Spa
+  headertitle: "BBox freelance solutions"
+  headerinfo: "A black box to solve problems"
+  next: "FIND OUT MORE"
+  ctatitle: "We've got what you need!"
+  ctainfo: "Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!"
+  gotocontactus: "GET STARTED!"
+  contactustitle: "Contrata nuestros servicios!"
+  contactisinfo: "Listo para iniciar tu próximo proyecto con nosotros"
+es:
+  languages: Idioma
+  en : Ing
+  sp : Esp
+  headertitle: "BBox soluciones freelance"
+  headerinfo: "Una caja negra para resolver problemas"
+  next: "FIND OUT MORE"
+  ctatitle: "We've got what you need!"
+  ctainfo: "Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!"
+  gotocontactus: "GET STARTED!"
+  contactustitle: "Contrata nuestros servicios!"
+  contactisinfo: "Listo para iniciar tu próximo proyecto con nosotros"
