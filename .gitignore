@@ -5,6 +5,9 @@ _site/
 .sass-cache/
 _gimp/
 
+# Ruby files
+Gemfile.lock
+
 # Ignore sublime files
 # cache files for sublime text
 *.tmlanguage.cache
