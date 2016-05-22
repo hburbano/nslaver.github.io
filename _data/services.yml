@@ -1,39 +1,39 @@
 en:
-  title: What we offer!
+  title: "What we offer!"
   list:
-    other:
-      glyph: fa-plane
-      title: Agile
-      description: Agile development in syncroni to changing needs.
     agile:
-      glyph: fa-trello
-      title: Agile
-      description: Agile development in synchrony to changing needs.
+      glyph: fa-plane
+      title: "Agile"
+      description: "Agile development in synchrony to changing needs."
     code:
       glyph: fa-code
-      title: Programming
-      description: Full stack development in many flavors.
+      title: "Programming"
+      description: "Full stack development in many flavors."
+    multiplatform:
+      glyph: fa-mobile
+      title: "Multiplatform"
+      description: "Agile development in syncroni to changing needs."
     cloud:
       glyph: fa-cloud
-      title: Cloud services
-      description: Config and deployment to your favorite cloud provider.
+      title: "Cloud services"
+      description: "Configuration and deployment to your favorite cloud provider."
 
 es:
-  title: Que ofrecemos!
+  title: "Que ofrecemos!"
   list:
-    other:
-      glyph: fa-plane
-      title: Agil
-      description: Desarrollo agil en sincronia con necesidades cambiantes.
     agile:
       glyph: fa-plane
-      title: Agil
-      description: Desarrollo agil en sincronia con necesidades cambiantes.
+      title: "Agil"
+      description: "Desarrollo ágil en sincronía con necesidades cambiantes."
     code:
       glyph: fa-code
-      title: Desarrolo Full Stack
-      description: Desarrollo Full Stack en diversos sabores.
+      title: "Desarrollo Full Stack"
+      description: "Desarrollo Full Stack en diversos sabores."
+    multiplatform:
+      glyph: fa-mobile
+      title: "Multiplataforma"
+      description: "Desarrollo multiplataforma para tu publico especifico."
     cloud:
       glyph: fa-cloud
-      title: Cloud services
-      description: Configuración y desarrollo a tu lugar favorito en la nube.
+      title: "Cloud services"
+      description: "Configuración y desarrollo a tu lugar favorito en la nube."

@@ -2,23 +2,25 @@ en:
   languages: Languages
   en : Eng
   sp : Spa
+  tooglenav : "Toggle navigation"
   headertitle: "BBox freelance solutions"
   headerinfo: "A black box to solve problems"
-  next: "FIND OUT MORE"
+  moreinfo : "Find Out More"
   ctatitle: "We've got what you need!"
-  ctainfo: "Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!"
-  gotocontactus: "GET STARTED!"
-  contactustitle: "Contrata nuestros servicios!"
-  contactisinfo: "Listo para iniciar tu próximo proyecto con nosotros"
+  ctainfo: "We area small team based in Cali, Colombia (GTM-5). We offer freelance solutions in multiple programing languages and platforms."
+  gotocontactus: "CONTACT US!"
+  contactustitle: "Let us work for you!"
+  contactisinfo: "Contact us to start a new project o give continuity to an existing one."
 es:
   languages: Idioma
   en : Ing
   sp : Esp
+  tooglenav : "Activar navegación"
   headertitle: "BBox soluciones freelance"
   headerinfo: "Una caja negra para resolver problemas"
-  next: "FIND OUT MORE"
-  ctatitle: "We've got what you need!"
-  ctainfo: "Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!"
-  gotocontactus: "GET STARTED!"
+  moreinfo: "Mas Información"
+  ctatitle: "Tenemos lo que necesitas!"
+  ctainfo: "Somos un pequeño equipo ubicado en Cali, Colombia (GTM-5). Ofrecemos soluciones freelance en diversos lenguajes de programación y plataformas."
+  gotocontactus: "PONTE EN CONTACTO!"
   contactustitle: "Contrata nuestros servicios!"
-  contactisinfo: "Listo para iniciar tu próximo proyecto con nosotros"
+  contactisinfo: "Ponte en contacto para comenzar un nuevo proyecto o darle continuidad a uno existente."

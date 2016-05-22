@@ -5,23 +5,23 @@ en:
   services:
     name: Services
     url: "#services"
-  portfolio:
-    name: Portfolio
-    url: "#portfolio"
+#  portfolio:
+#    name: Portfolio
+#    url: "#portfolio"
   contact:
     name: Contact
     url: "#contact"
 
 es:
   about:
-    name: Acerca de nosotros
+    name: Acerca de
     url: "#about"
   services:
     name: Servicios
     url: "#services"
-  portfolio:
-    name: Portafolio
-    url: "#portfolio"
+#  portfolio:
+#    name: Portafolio
+#    url: "#portfolio"
   contact:
     name: Contacto
     url: "#contact"
