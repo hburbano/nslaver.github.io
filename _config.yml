@@ -13,7 +13,7 @@ url: "http://bbox.co"
 
 # Exclude from the generated _site
 
-exclude: ["script", "Gemfile", "README", "LICENCE", "Rakefile","bbox.sublime-project"]
+exclude: ["script", "Gemfile", "README", "LICENCE", "Rakefile","bbox.sublime-project", "vendor"]
 
 #i18n Polyglot
 
