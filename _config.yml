@@ -8,15 +8,18 @@ email: hburbano@bbox.co
 description:
   en: Site description
   es: Descripción del sitio
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bbox.co" # the base hostname & protocol for your site
+baseurl:
+url: "http://bbox.co"
+
+# Exclude from the generated _site
+
 exclude: ["script", "Gemfile", "README", "LICENCE", "Rakefile","bbox.sublime-project"]
 
 #i18n Polyglot
 
 languages: ["en", "es"]
 default_lang: "en"
-exclude_from_localization: ["js", "font-awesome", "fonts", "img", "css"]
+exclude_from_localization: ["js", "font-awesome", "fonts", "img", "css", "favicon.png"]
 parallel_localization: true
 
 # Config

@@ -14,14 +14,9 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-
-            <ul class="nav navbar-nav navbar-right">
-                {% for lang in site.languages %}
-                <li><a {% if lang == site.active_lang %}style="text-decoration: underline;"{% endif %} href="{% if lang == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ lang }}{{page.url}} {% endif %}">{{ lang }}</a></li>
-                {% endfor %}
-                {% for menu in site.data.navbar[site.active_lang] %}
-                <li><a class="page-scroll" href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
-                {% endfor %}
+            <ul class="nav navbar-nav navbar-right">{% for mylan in site.languages %}
+                <li><a {% if mylan == site.active_lang %}style="text-decoration: underline;"{% endif %} href={% if mylan == site.default_lang %}"{{site.baseurl}}{{page.url}}{% else %}"{{site.baseurl}}/{{ mylan }}{{page.url}} {% endif %}">{{ mylan }}</a></li>{% endfor %}{% for menu in site.data.navbar[site.active_lang] %}
+                <li><a class="page-scroll" href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>{% endfor %}
             </ul>
         </div>
         <!-- /.navbar-collapse -->
