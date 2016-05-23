@@ -8,7 +8,7 @@ email: hburbano@bbox.co
 description:
   en: Site description
   es: Descripción del sitio
-baseurl:
+baseurl: ""
 url: "http://bbox.co"
 
 # Exclude from the generated _site
