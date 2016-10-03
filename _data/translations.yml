@@ -1,26 +1,26 @@
 en:
   languages: Languages
-  en : Eng
-  sp : Spa
+  en : ES
+  sp : ES
   tooglenav : "Toggle navigation"
   headertitle: "BBox freelance solutions"
   headerinfo: "A black box to solve problems"
   moreinfo : "Find Out More"
   ctatitle: "We've got what you need!"
-  ctainfo: "We area small team based in Cali, Colombia (GTM-5). We offer freelance solutions in multiple programing languages and platforms."
+  ctainfo: "I'm web developer based in Cali, Colombia (GTM-5). Offering freelance solutions in different programing languages and platforms."
   gotocontactus: "CONTACT US!"
   contactustitle: "Let us work for you!"
   contactisinfo: "Contact us to start a new project o give continuity to an existing one."
 es:
   languages: Idioma
-  en : Ing
-  sp : Esp
+  en : EN
+  sp : ES
   tooglenav : "Activar navegación"
   headertitle: "BBox soluciones freelance"
   headerinfo: "Una caja negra para resolver problemas"
   moreinfo: "Mas Información"
   ctatitle: "Tenemos lo que necesitas!"
-  ctainfo: "Somos un pequeño equipo ubicado en Cali, Colombia (GTM-5). Ofrecemos soluciones freelance en diversos lenguajes de programación y plataformas."
+  ctainfo: "Soy un desarrollador ubicado en Cali, Colombia (GTM-5). Ofrezco soluciones freelance en diversos lenguajes de programación y plataformas."
   gotocontactus: "PONTE EN CONTACTO!"
   contactustitle: "Contrata nuestros servicios!"
   contactisinfo: "Ponte en contacto para comenzar un nuevo proyecto o darle continuidad a uno existente."
