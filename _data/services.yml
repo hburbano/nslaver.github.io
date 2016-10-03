@@ -12,7 +12,7 @@ en:
     multiplatform:
       glyph: fa-mobile
       title: "Multiplatform"
-      description: "Agile development in syncroni to changing needs."
+      description: "Multiplatform development for your user needs."
     cloud:
       glyph: fa-cloud
       title: "Cloud services"
@@ -32,7 +32,7 @@ es:
     multiplatform:
       glyph: fa-mobile
       title: "Multiplataforma"
-      description: "Desarrollo multiplataforma para tu publico especifico."
+      description: "Desarrollo multiplataforma para tus necesidades."
     cloud:
       glyph: fa-cloud
       title: "Cloud services"
